@@ -17,6 +17,8 @@ PHP Library to handle server-side processing for Datatables, in a fast and simpl
 
 ## Installation
 
+> **NOTE:** version 2.0 requires php 7.1.3+ ([php supported versions](http://php.net/supported-versions.php))
+
 The recommended way to install the library is with [Composer](https://getcomposer.org/)
 
 If you haven't started using composer, I highly recommend you to use it.
@@ -143,7 +145,7 @@ This is the list of available public methods.
 ## Requirements
 Composer  
 DataTables > 1.10  
-PHP > 5.6  
+PHP > 7.1.3
 
 ## License
 Copyright (c) 2015 Yusuf ÖZDEMİR, released under [the MIT license](https://github.com/n1crack/Datatables/blob/master/LICENCE)
